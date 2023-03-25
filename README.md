@@ -1058,7 +1058,7 @@ PDU在线编码工具：
 	![在这里插入图片描述](https://img-blog.csdnimg.cn/5e61fedc081e4fc9bb9dfd38647c466b.jpeg#pic_center)
 
 
-## 7. 代码内使用sin,cos,atan2,sqrt,fabs等c语言math库相关函数编译不通过：
+## 7. 代码内使用sin,cos,atan2,sqrt,fabs等c语言math库相关函数编译不通过
 
 **==（无法解决）==**
 
